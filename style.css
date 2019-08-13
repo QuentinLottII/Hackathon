@@ -55,6 +55,20 @@ p{
     font-size: 14px;
 }
 
+ul{
+    text-indent: 10px;
+    font-family: 'Blinker', sans-serif;
+    color: #75805a;
+    font-size: 14px;
+}
+
+ol{
+    text-indent: 10px;
+    font-family: 'Blinker', sans-serif;
+    color: #75805a;
+    font-size: 14px;
+}
+
 #first{
     display: block;
   margin-left: auto;
@@ -85,6 +99,7 @@ border: 1px dotted #5e6943;
 
 .table{
     border: 1px solid #b1c381;
+    background-color: #b2c28a;
 }
 
 #fourth{
@@ -119,3 +134,29 @@ border: 1px dotted #5e6943;
     padding: 20px;
 }
 
+#summary{
+    background-color: #a3b37c;
+}
+.button {
+     background-color: #CFB997;
+     border: none;
+     color: white;
+     padding: 20px 20px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 20px;
+     margin: 4px 2px;
+     cursor: pointer;
+}
+
+#banner{
+    height: 230px;
+    width: 350px;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.starter{
+    background-color: #a3b37c;
+}
