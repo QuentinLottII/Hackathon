@@ -99,6 +99,10 @@ table{
 border: 1px dotted #5e6943;
 }
 
+th{
+    color: #4f573a;
+}
+
 #third{
     border-radius: 25px;
     padding: 20px;
