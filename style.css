@@ -29,6 +29,15 @@ h1{
     margin-top: 20px;
     color: #75805a;
     font-family: 'Blinker', sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2{
+    color: #75805a;
+    font-family: 'Blinker', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 
@@ -89,3 +98,24 @@ border: 1px dotted #5e6943;
     height: 250px;
     width: 350px;
 }
+.fifth{
+    border-radius: 25px;
+    padding: 20px;
+    height: 230px;
+    width: 250px;
+}
+
+#sixth{
+    height: 230px;
+    width: 400px;
+    border-radius: 25px;
+    padding: 20px;
+}
+
+#seventh{
+    height: 230px;
+    width: 250px;
+    border-radius: 25px;
+    padding: 20px;
+}
+
