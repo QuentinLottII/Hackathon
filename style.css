@@ -46,6 +46,9 @@ body{
     background-color: #b6c590;
     font-family: 'Blinker', sans-serif;
     color: #75805a;
+    margin-right: 20px;
+    padding-right: 20px;
+    padding-left: 10px;
 }
 
 p{
@@ -158,5 +161,14 @@ border: 1px dotted #5e6943;
 }
 
 .starter{
-    background-color: #a3b37c;
+    background-color: #bcce90;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  background-color: #b6c590;
+  color: #bcce90;
 }
