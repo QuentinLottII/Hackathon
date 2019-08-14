@@ -200,3 +200,7 @@ a:hover {
 a:active {
   color: white;
 }
+
+.list{
+    background-color: #bdca9c;
+}
