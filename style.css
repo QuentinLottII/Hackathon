@@ -43,11 +43,13 @@ h2{
 
 body{
     background-color: #d3e2ae;
+    text-align: center;
     font-family: 'Blinker', sans-serif;
     color: #75805a;
     margin-right: 20px;
     padding-right: 20px;
     padding-left: 10px;
+    padding-bottom: 20px;
 }
 
 .container{
@@ -61,21 +63,19 @@ p{
      text-indent: 10px;
     font-family: 'Blinker', sans-serif;
     color: #4f573a;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 ul{
-    text-indent: 10px;
     font-family: 'Blinker', sans-serif;
     color: #4f573a;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 ol{
-    text-indent: 10px;
     font-family: 'Blinker', sans-serif;
     color: #4f573a;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 #first{
@@ -92,7 +92,7 @@ ol{
   border-radius: 25px;
   padding: 20px;
   height: 250px;
-  width: 350px;
+  width: 400px;
 }
 
 table{
@@ -114,7 +114,7 @@ th{
     border-radius: 25px;
     padding: 20px;
     height: 250px;
-    width: 350px;
+    width: 390px;
 }
 
 #workforce{
@@ -137,7 +137,7 @@ th{
 
 #seventh{
     height: 230px;
-    width: 250px;
+    width: 400px;
     border-radius: 25px;
     padding: 20px;
 }
@@ -155,9 +155,9 @@ th{
      cursor: pointer;
 }
 
-#banner{
-    height: 230px;
-    width: 350px;
+.banner{
+    height: 300px;
+    width: 450px;
     border-radius: 25px;
     padding: 20px;
 }
@@ -181,7 +181,7 @@ input[type=text] {
 
 /* unvisited link */
 a:link {
-  color: #4f573a;
+  color: #555d3f;
 }
 
 /* visited link */
