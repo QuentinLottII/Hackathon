@@ -183,7 +183,7 @@ input[type=text] {
 
 /* unvisited link */
 a:link {
-  color: #555d3f;
+  color: white;
 }
 
 /* visited link */
